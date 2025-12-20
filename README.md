@@ -9,10 +9,4 @@ If you’re curious about building a portfolio like this — beginner friendly c
 
 ## 🖼️ Preview
 <img width="1470" height="843" alt="image" src="https://github.com/user-attachments/assets/b8a104de-b18e-49b6-91ac-e60670f4cee3" />
-
-
-
-You can add more screenshots below if you want 👇  
-```md
-![View 1](path/to/screenshot1.webp)
-![View 2](path/to/screenshot2.webp)
+<img width="1470" height="843" alt="image" src="https://github.com/user-attachments/assets/7eb20b84-3c5b-42f9-8c8a-98f8afaa5093" />
